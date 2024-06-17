@@ -50,7 +50,7 @@ Feel free to say hi!
 ## 🌟 WIP and Useful projects 
 
 | Project Repo | Description |
-| -- | -- | -- |
+| -- | -- |
 | [UIKIT System](https://github.com/easypizi/Animated-UIKIT) | WIP. UIKIT based on FramerJS and Typescript + React + Storybook component system |
 | [OOP Patterns](https://github.com/easypizi/OOP) | OOP Patterns examples for educational purposes |
 | [Telegram Bot Template](https://github.com/easypizi/bot-template) | Template for simple create and deploy of Telegram Bots |
