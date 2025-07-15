@@ -34,18 +34,6 @@ Feel free to say hi!
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-
-## 🔥🔥🔥 [Hire me](https://drive.google.com/file/d/1Kh372il7id_6I6UTr62J-0QguC_EZHET/view?usp=sharing) 🔥🔥🔥
-
-
-## 📫 How to reach me
-
-- 📍 | Current Location: San Francisco Bay Area 
-- 📧 | Email: tolstov.career@gmail.com 
-- 📞 | Phone: +1 650 333 3218 
-- 💬 | Telegram: https://t.me/ivan_tolstov 
-
-
 ## 🌟 WIP and Useful projects 
 
 | Project Repo | Description |
