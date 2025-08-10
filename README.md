@@ -1,12 +1,11 @@
-## 🖖 Hi there 
+# 🖖 Hi there
 
 Hello, my name is Ivan. I'm a Software Engineer, focused on Frontend. I've a strong passion to create simple and convenient UI for complex products.
 I'm in love with creating web and mobile applications for gamedev, AI and space domain products.
 
-This github is a storage for my personal projects and other stuff that I want to share with a world. 
+This github is a storage for my personal projects and other stuff that I want to share with a world.
 
-Feel free to say hi! 
-
+Feel free to say hi!
 
 ## 🛠️ My stack
 
@@ -30,18 +29,22 @@ Feel free to say hi!
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Effector](https://img.shields.io/badge/Effector-0088CC?style=for-the-badge&logo=effector&logoColor=white)
+![Nx](https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 
-## 🌟 WIP and Useful projects 
+<!-- ## 🌟 WIP and Useful projects  -->
 
-| Project Repo | Description |
+<!-- | Project Repo | Description |
 | -- | -- |
 | [UIKIT System](https://github.com/easypizi/Animated-UIKIT) | WIP. UIKIT based on FramerJS and Typescript + React + Storybook component system |
 | [OOP Patterns](https://github.com/easypizi/OOP) | OOP Patterns examples for educational purposes |
-| [Telegram Bot Template](https://github.com/easypizi/bot-template) | Template for simple create and deploy of Telegram Bots |
-
+| [Telegram Bot Template](https://github.com/easypizi/bot-template) | Template for simple create and deploy of Telegram Bots | -->
 
 ## 📈 Stats and widgets
 
 ![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=easypizi&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=easypizi&theme=radical)](https://git.io/streak-stats)
-
