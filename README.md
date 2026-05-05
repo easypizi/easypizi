@@ -35,16 +35,3 @@ Feel free to say hi!
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-
-<!-- ## 🌟 WIP and Useful projects  -->
-
-<!-- | Project Repo | Description |
-| -- | -- |
-| [UIKIT System](https://github.com/easypizi/Animated-UIKIT) | WIP. UIKIT based on FramerJS and Typescript + React + Storybook component system |
-| [OOP Patterns](https://github.com/easypizi/OOP) | OOP Patterns examples for educational purposes |
-| [Telegram Bot Template](https://github.com/easypizi/bot-template) | Template for simple create and deploy of Telegram Bots | -->
-
-## 📈 Stats and widgets
-
-![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=easypizi&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=easypizi&theme=radical)](https://git.io/streak-stats)
