@@ -92,5 +92,5 @@ I built [HireScope](https://hirescope.tech), AI-powered company research for job
 
 ## 📈 Stats and widgets
 
-![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=easypizi&show_icons=true&theme=radical)
+![Ivan's GitHub stats](https://github-stats-extended.vercel.app/api?username=easypizi&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=easypizi&theme=radical)](https://git.io/streak-stats)
