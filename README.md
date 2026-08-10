@@ -15,8 +15,6 @@ I built [HireScope](https://hirescope.tech), AI-powered company research for job
 - Culture insights and compensation benchmarks
 - Resume match and interview prep
 
-**Try it:** [hirescope.tech](https://hirescope.tech)
-
 
 ## 🛠️ My stack
 
