@@ -1,6 +1,6 @@
 ## 🖖 Hi there 
 
-Hello, my name is Ivan. I'm a Software Engineer. I've a strong passion to create simple and convenient UI and Tools for complex products.
+Hello, I'm Ivan.
 
 This github is a storage for my personal projects and other stuff that I want to share with a world. 
 
