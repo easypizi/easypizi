@@ -1,7 +1,6 @@
 ## 🖖 Hi there 
 
-Hello, my name is Ivan. I'm a Software Engineer, focused on Frontend. I've a strong passion to create simple and convenient UI for complex products.
-I'm in love with creating web and mobile applications for gamedev, AI and space domain products.
+Hello, my name is Ivan. I'm a Software Engineer. I've a strong passion to create simple and convenient UI and Tools for complex products.
 
 This github is a storage for my personal projects and other stuff that I want to share with a world. 
 
